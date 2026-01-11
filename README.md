@@ -2,6 +2,8 @@
 
 Monitor your Neevo propane tank levels directly in Home Assistant using the official Neevo API.
 
+<img width="502" height="494" alt="image" src="https://github.com/user-attachments/assets/d08153cb-b5fd-43ab-8d34-5b74f099cc57" />
+
 ## Features
 
 - **Real-time tank level monitoring** - Track your propane tank fill percentage

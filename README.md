@@ -13,7 +13,7 @@ Monitor your Neevo propane tank levels directly in Home Assistant using the offi
 
 - Home Assistant installed and running
 - Neevo account with active propane tank monitoring service
-- Neevo username and password
+- Neevo username and password (requires setup in Neevo phone app and scanning of QR code on reader to register as home owner)
 
 ## Installation
 

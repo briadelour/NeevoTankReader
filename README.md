@@ -2,6 +2,8 @@
 
 Monitor your Neevo propane tank levels directly in Home Assistant using the official Neevo API.
 
+If you prefer, I have a HACS plugin available from this custom repository: https://github.com/briadelour/otodata-tank-monitor
+
 <img width="502" height="494" alt="image" src="https://github.com/user-attachments/assets/d08153cb-b5fd-43ab-8d34-5b74f099cc57" />
 
 ## Features

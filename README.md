@@ -1,4 +1,6 @@
 # Neevo Propane Tank Monitor for Home Assistant
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/briadelour)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/bdeloureiro)
 
 Monitor your Neevo propane tank levels directly in Home Assistant using the official Neevo API.
 
